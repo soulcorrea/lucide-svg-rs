@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.9](https://github.com/crabtools-rs/lucide-svg-rs/compare/v0.1.8...v0.1.9) (2025-08-28)
+
+
+### Bug Fixes
+
+* correct else syntax in badge workflow ([97ff5a8](https://github.com/crabtools-rs/lucide-svg-rs/commit/97ff5a8d4417d7feb6fadb385ba912f1dd4e9b5b))
+* remove colon from else in badge workflow ([5141e35](https://github.com/crabtools-rs/lucide-svg-rs/commit/5141e356128f203b5ad482cda5a510605703c59a))
+
 ## [0.1.8](https://github.com/crabtools-rs/lucide-svg-rs/compare/v0.1.7...v0.1.8) (2025-08-28)
 
 
